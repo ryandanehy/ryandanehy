@@ -11,4 +11,3 @@
 ---
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryandanehy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Ryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryandanehy&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
